@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BottyIvan
-- 👀 I’m interested in nerd stuff
-- 🌱 I’m currently learning swift (kinda)
+- Currrently working @ Selexi Srl as web developer
 
 <!---
 BottyIvan/BottyIvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
