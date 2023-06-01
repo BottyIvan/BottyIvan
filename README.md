@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @BottyIvan
-- Currrently working @ Selexi Srl as web developer
+- Currrently working @ <a href="www.selexi.it">Selexi Srl</a> as web developer
+- 💻 find me on <a href="https://www.linkedin.com/in/ivan-b-97787394/">linkedin</a>
+- bye 🖖
 
 <!---
 BottyIvan/BottyIvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
