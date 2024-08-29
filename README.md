@@ -1,6 +1,3 @@
-# 👋 Hello, I'm Ivan
-
-## 🌟 About Me
 Web development professional specializing in frontend with strong backend skills, offering a comprehensive and professional approach to projects.
 
 My experience has allowed me to work on a wide range of projects, ranging from vanilla PHP solutions to custom implementations using various frameworks. In the frontend, I have created innovative solutions, adopting a modern and engaging design, with particular attention to mobile usability and the latest framework guidelines.
