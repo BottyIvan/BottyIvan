@@ -4,11 +4,10 @@ My experience has allowed me to work on a wide range of projects, ranging from v
 
 Considering myself an added value to the team, I am always motivated to tackle new professional challenges that allow me to grow and contribute significantly.
 
-## 💻 Current Work
-I am currently a **Web Developer** at [Selexi Srl](https://www.selexi.it).
+---
+💻 Current Work **Web Developer** @ [Selexi Srl](https://www.selexi.it).
 
-## ☕ Find Me Online
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ivan-b-97787394/).
+☕ Find Me Online @ [LinkedIn](https://www.linkedin.com/in/ivan-b-97787394/).
 
 <!---
 BottyIvan/BottyIvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
